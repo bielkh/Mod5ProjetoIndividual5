@@ -36,6 +36,7 @@ Caso queira testar em seu computador, por favor faça:
 
  - Baixe Node.js
  - Baixe o repositório.
+ - Instale, pelo terminal, readline-sync e chalk. 
  - Abra o prompt de comando na pasta do repositório.
  - Escreva isso:
 
